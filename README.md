@@ -1,4 +1,4 @@
-# Guia-de-Instala-o-do-Armbian-em-TV-Box
+# Guia de Instalação do Armbian em TV Box S905x
 
 O Raspberry Pi/Orange PI é ótimo, mas existem meios com custo inferior disponiveis no mercado.
 TV Boxes antigas com processadores ARM — como as baseadas em **Amlogic S905x** ou **Rockchip RK3328** — podem ser transformadas em servidores domésticos, mini-PCs Linux ou ambientes de testes extremamente acessíveis.
